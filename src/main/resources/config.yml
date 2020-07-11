@@ -1,0 +1,7 @@
+Blocks:
+  GRASS_BLOCK:
+    drop: PAPER
+    amount: 2
+  #MATERIAL:        ## Materials for 1.15.2 can be found here: http://jd.andross.fr/1.15.2/doc/org/bukkit/Material.html
+    #drop: MATERIAL
+    #amount: MAX-AMOUNT

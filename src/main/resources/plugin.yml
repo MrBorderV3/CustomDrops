@@ -1,0 +1,5 @@
+name: CustomDrops
+version: ${project.version}
+main: me.border.customdrops.CustomDrops
+api-version: 1.15
+authors: [MrBorder]
